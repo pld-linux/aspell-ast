@@ -2,7 +2,7 @@ Summary:	Asturian dictionary for aspell
 Summary(pl.UTF-8):	Słownik asturski dla aspella
 Name:		aspell-ast
 Version:	0.01
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL v2
 Group:		Applications/Text
